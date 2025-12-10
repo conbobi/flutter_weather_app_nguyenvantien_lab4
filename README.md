@@ -5,7 +5,9 @@ Weather Forecast App – Flutter
 link video của em:
 
 https://drive.google.com/file/d/1gV9CodSmd9wNtfMBbcSn1nYbhQgE9-IP/view?usp=sharing
+
 1. Chức năng chính
+
 1.1. Thời tiết hiện tại
 
 Nhiệt độ, cảm nhận, trạng thái thời tiết.
