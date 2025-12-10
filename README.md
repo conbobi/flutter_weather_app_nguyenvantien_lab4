@@ -5,15 +5,14 @@ Weather Forecast App – Flutter
 link video của em:
 
 https://drive.google.com/file/d/1gV9CodSmd9wNtfMBbcSn1nYbhQgE9-IP/view?usp=sharing
-
 1. Chức năng chính
-Thời tiết hiện tại
+1.1. Thời tiết hiện tại
 
 Nhiệt độ, cảm nhận, trạng thái thời tiết.
 
 Độ ẩm, áp suất, tầm nhìn.
 
-Tốc độ gió, hướng gió.
+Tốc độ gió và hướng gió.
 
 Chỉ số UV.
 
@@ -21,46 +20,53 @@ Thời điểm mặt trời mọc và lặn.
 
 Giao diện thay đổi theo điều kiện thời tiết (nắng – mưa – nhiều mây – ban đêm).
 
-Dự báo theo giờ và 7 ngày
+1.2. Dự báo theo giờ và 7 ngày
 
-Biểu đồ nhiệt độ theo giờ.
+Hiển thị nhiệt độ theo giờ.
 
-Dự báo chi tiết trong 7 ngày: nhiệt độ cao/ thấp, mô tả thời tiết.
+Dự báo 7 ngày với nhiệt độ cao/thấp và mô tả chi tiết.
 
-Tìm kiếm & quản lý địa điểm
+1.3. Tìm kiếm & quản lý địa điểm
 
-Tìm kiếm thời tiết theo tên thành phố.
+Tìm kiếm theo tên thành phố.
 
-Lưu danh sách địa điểm yêu thích.
+Lưu địa điểm yêu thích.
 
 Lưu lịch sử tìm kiếm.
 
-Tự động lấy vị trí hiện tại bằng GPS.
+Tự động lấy vị trí người dùng bằng GPS.
 
-Thiết lập
+1.4. Thiết lập
 
-Đổi đơn vị nhiệt độ °C / °F.
+Đổi đơn vị nhiệt độ: °C / °F.
 
 Chọn ngôn ngữ giao diện.
 
-Định dạng thời gian 12h / 24h.
+Đổi định dạng thời gian: 12h / 24h.
 
-Dark Mode.
+Hỗ trợ Dark Mode.
 
-Offline
+1.5. Hoạt động Offline
 
-Cache dữ liệu khi mất mạng.
+Lưu cache khi mất kết nối Internet.
 
-Tự đồng bộ khi có kết nối lại.
-
+Tự động cập nhật dữ liệu khi online trở lại.
 2. Hình ảnh giao diện (đặt trong thư mục /img)
 ![Nắng đẹp](./img/01_nang_dep.png)
+
+
 ![Nhiều mây](./img/02_nhieu_may.png)
+
 ![Tìm kiếm & Lịch sử - Light mode](./img/03_tim_kiem_va_lich_su_lightmode.png)
+
 ![Tìm kiếm & Lịch sử - Dark mode](./img/04_tim_kiem_va_lich_su_darkmode.png)
+
 ![Đang tải](./img/05_dang_tai.png)
+
 ![Dự báo 24h và 5 ngày tới](./img/06_du_bao_24h_vaf_5_ngay_toi.png)
+
 ![Settings](./img/07_setting_va_chon_che_do.png)
+
 ![Dự báo 5 ngày tiếp theo](./img/08_du_bao_5_ngay_tiep_theo.png)
 
 
