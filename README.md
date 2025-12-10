@@ -52,23 +52,29 @@ Lưu cache khi mất kết nối Internet.
 
 Tự động cập nhật dữ liệu khi online trở lại.
 2. Hình ảnh giao diện (đặt trong thư mục /img)
-![Nắng đẹp](./img/01_nang_dep.png)
+![Nắng đẹp](./img/01_nang_dep.png)  
+**Mô tả:** Giao diện hiển thị thời tiết nắng.
 
+![Nhiều mây](./img/02_nhieu_may.png)  
+**Mô tả:** Giao diện hiển thị thời tiết nhiều mây.
 
-![Nhiều mây](./img/02_nhieu_may.png)
+![Tìm kiếm Light mode](./img/03_tim_kiem_va_lich_su_lightmode.png)  
+**Mô tả:** Màn hình tìm kiếm + lịch sử ở chế độ sáng.
 
-![Tìm kiếm & Lịch sử - Light mode](./img/03_tim_kiem_va_lich_su_lightmode.png)
+![Tìm kiếm Dark mode](./img/04_tim_kiem_va_lich_su_darkmode.png)  
+**Mô tả:** Màn hình tìm kiếm + lịch sử ở chế độ tối.
 
-![Tìm kiếm & Lịch sử - Dark mode](./img/04_tim_kiem_va_lich_su_darkmode.png)
+![Đang tải](./img/05_dang_tai.png)  
+**Mô tả:** Màn hình loading khi lấy dữ liệu.
 
-![Đang tải](./img/05_dang_tai.png)
+![Dự báo 24h và 5 ngày tới](./img/06_du_bao_24h_vaf_5_ngay_toi.png)  
+**Mô tả:** Biểu diễn dự báo thời tiết chi tiết theo giờ và 5 ngày.
 
-![Dự báo 24h và 5 ngày tới](./img/06_du_bao_24h_vaf_5_ngay_toi.png)
+![Cài đặt](./img/07_setting_va_chon_che_do.png)  
+**Mô tả:** Màn hình thiết lập chế độ và các tùy chọn.
 
-![Settings](./img/07_setting_va_chon_che_do.png)
-
-![Dự báo 5 ngày tiếp theo](./img/08_du_bao_5_ngay_tiep_theo.png)
-
+![Dự báo 5 ngày tiếp theo](./img/08_du_bao_5_ngay_tiep_theo.png)  
+**Mô tả:** Giao diện dự báo 5 ngày kế tiếp.
 
 3. Cài đặt và chạy dự án
 flutter pub get
